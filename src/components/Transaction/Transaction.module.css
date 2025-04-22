@@ -1,0 +1,17 @@
+.row {
+  transition: background-color 0.3s ease;
+}
+
+.row:hover {
+  background-color: #383838;
+}
+
+.cell {
+  padding: 8px;
+  text-align: center;
+  color: #dcdcdc;
+}
+
+.typeCell {
+  text-transform: capitalize;
+}

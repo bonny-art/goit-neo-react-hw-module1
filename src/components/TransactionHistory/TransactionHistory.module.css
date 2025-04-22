@@ -1,0 +1,26 @@
+.table {
+  width: 680px;
+  margin: 0 auto;
+  border-collapse: collapse;
+  color: #ffffff;
+  background-color: #222222;
+}
+
+.headerRow {
+  background-color: #333333;
+}
+
+.headerCell {
+  border: 1px solid #444444;
+  padding: 10px;
+  text-align: center;
+  font-weight: bold;
+}
+
+.rowDark {
+  background-color: #2a2a2a;
+}
+
+.rowLight {
+  background-color: #252525;
+}
