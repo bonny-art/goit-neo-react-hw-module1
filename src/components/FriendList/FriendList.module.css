@@ -1,0 +1,8 @@
+.list {
+  display: flex;
+  gap: 20px;
+  padding: 0;
+  margin-bottom: 40px;
+  list-style: none;
+  justify-content: center;
+}
